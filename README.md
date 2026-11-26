@@ -5,6 +5,6 @@
 
   # ahn-seongkyeom's Website
 
-  Visit **[ahn-seongkyeom.github.io/jeonglab](https://ahn-seongkyeom.github.io/jeonglab)** 🚀
+  Visit **[jeonglab-knu.github.io](https://jeonglab-knu.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
