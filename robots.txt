@@ -1,1 +1,1 @@
-Sitemap: https://ahn-seongkyeom.github.io/jeonglab.github.io/sitemap.xml
+Sitemap: https://ahn-seongkyeom.github.io/jeonglab/sitemap.xml
