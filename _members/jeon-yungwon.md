@@ -2,7 +2,7 @@
 name: 전윤권
 image: images/jeon-yungwon.jpg
 role: phd
-description: 대학원생
+description: 석사과정
 ---
 
-연구 관심 분야와 간단한 소개를 여기에 적어주세요.
+강원대학교 과학계산연구실 석사과정생입니다.
